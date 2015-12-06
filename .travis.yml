@@ -3,6 +3,5 @@ node_js:
   - "4.1"
 
 before_script:
-  - npm install -g gulp
   - npm install gulp
 script: gulp
