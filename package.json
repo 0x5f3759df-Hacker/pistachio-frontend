@@ -1,0 +1,17 @@
+{
+  "name": "pistachio-frontend",
+  "version": "0.0.1",
+  "description": "The web frontend of Pistachio",
+  "repository": "https://github.com/0x5f3759df-Hacker/pistachio-frontend",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.8.5",
+    "tmp": "0.0.28",
+    "bower": "^1.6.9",
+    "gulp": "3.9.0",
+    "shelljs": "^0.2.6"
+  },
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  }
+}
