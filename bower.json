@@ -1,0 +1,18 @@
+{
+  "name": "pistachio-frontend",
+  "description": "The web frontend of Pistachio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/0x5f3759df-Hacker/pistachio-frontend",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "foundation-sites": "~6.0",
+    "angular-route": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-animate": "1.5.x"
+  }
+}

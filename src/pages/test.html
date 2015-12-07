@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-10">
+            <div ng-repeat="book in books" class="panel panel-success">
+                <div class="panel-heading">
+                    <h3 class="panel-title">{{book.name}}</h3>
+                </div>
+                <div class="panel-body">
+                    <p>ISBN : <strong>{{book.isbn}}</strong></p>
+                    <p>作者 : <strong>{{book.author}}</strong></p>
+                    <p>出版日期 : <strong>{{book.pubDate}}</strong></p>
+                    <p>出版社 : <strong>{{book.publisher}}</strong></p>
+                    <p>页数：{{book.page}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

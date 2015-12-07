@@ -2,3 +2,6 @@
 .idea/*
 *.iml
 
+# dependencies
+node_modules
+src/components
