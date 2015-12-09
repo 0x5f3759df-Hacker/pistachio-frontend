@@ -10,9 +10,9 @@ Environment requirement:
 
 - Node.js 4.2.2
 
-Execute to test:
+Execute to build:
 ```bash
 npm install
 bower install
-npm start
+gulp
 ```

@@ -5,6 +5,8 @@
 /* preserve space for nav bar */
 body { padding-top: 70px; padding-bottom: 70px;}
 
+
+
 .bg-nav-black {
     background-image: linear-gradient(bottom, rgb(240,240,240) 3%, rgb(247,247,247) 52%);
     background-image: -o-linear-gradient(bottom, rgb(240,240,240) 3%, rgb(247,247,247) 52%);
