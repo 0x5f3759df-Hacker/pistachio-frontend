@@ -1,18 +1,7 @@
 # Web Frontend of Pistachio
 
-The frontend of Pistachio.
+The frontend of Pistachio using AngularJS 1.x.
 
 This repository will be merged to the main pistachio repository finally.
 
-##Dev Instruction
-
-Environment requirement:
-
-- Node.js 4.2.2
-
-Execute to build:
-```bash
-npm install
-bower install
-gulp
-```
+**Deprecated since 2015-12**
